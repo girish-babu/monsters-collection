@@ -1,0 +1,14 @@
+input[type=search] {
+    padding: 10px;            /* Overridden by padding: 1px; */
+	font-family: Georgia;     /* Overridden by font: -webkit-small-control; * /* Overridden by border: 2px inset; */        /* Overridden by background-color: white; */ 
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: d;
+    border-radius: 20px;
+}
